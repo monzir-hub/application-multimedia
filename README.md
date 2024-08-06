@@ -1,0 +1,1 @@
+this project calculates the parameters of an audio WAV file such as: Data size “number of samples in the file”, Data size in bits, Bit rate , if given, calc bits per sample , Type of recording , Sampling rate
